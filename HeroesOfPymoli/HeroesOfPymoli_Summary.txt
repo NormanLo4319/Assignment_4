@@ -1,4 +1,5 @@
 Heroes of Pymoli Data Analysis Summary:
+
 1. The profit is mainly driven by male players in this game because majority of the players are male. 
 However, female players are willing to spend more on average on in-game purchase item than male players.
 
